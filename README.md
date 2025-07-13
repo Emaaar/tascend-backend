@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laravel Backend - Tascend
 
 This repository contains the **backend API** for the **Tascend** project – a modern task and productivity management web application. This backend handles user management, task operations, and other core functionalities using Laravel.
@@ -42,3 +43,7 @@ cd tascend-backend
 composer install
 cp .env.example .env
 php artisan key:generate
+=======
+# tascend-backend
+Backend for Tascend – a Laravel-powered REST API for managing tasks, users, and authentication in the Tascend task manager application.
+>>>>>>> 4e2d5a894ec93a26b941de41e43921e89b67e6a5
